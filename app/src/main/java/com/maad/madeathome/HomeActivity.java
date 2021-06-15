@@ -19,6 +19,8 @@ public class HomeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
+        setTitle(R.string.all_products);
+
         recyclerView = findViewById(R.id.rv);
 
         viewModel = new ViewModelProvider(this).get(HomeViewModel.class);

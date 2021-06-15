@@ -16,8 +16,7 @@
             android:name=".AddProductActivity"
             android:label="@string/add_product" />
         <activity
-            android:name=".HomeActivity"
-            android:label="@string/all_products">
+            android:name=".HomeActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Vendor</string>
+    <string name="app_name">Admin App</string>
     <string name="delete">delete</string>
     <string name="enter_product_title">Enter Product Title</string>
     <string name="enter_product_price">Enter Price</string>
@@ -9,7 +9,7 @@
     <string name="edit_product">Edit Product</string>
     <string name="carptes">Carpets</string>
     <string name="pottery">Pottery</string>
-    <string name="bead">Bead</string>
+    <string name="bead">Beads</string>
     <string name="product_added">Product Added Successfully</string>
     <string name="product_updated">Product Updated Successfully</string>
     <string name="all_products">All Products</string>
